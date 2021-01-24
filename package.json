@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-webp-image-converter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "dependencies": {
+    "imagemin": "^7.0.1",
+    "imagemin-webp": "^6.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulAlexSerban/NodeJS-WebP-Image-Converter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paulAlexSerban/NodeJS-WebP-Image-Converter/issues"
+  },
+  "homepage": "https://github.com/paulAlexSerban/NodeJS-WebP-Image-Converter#readme"
+}
